@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="Rendering">
+	<ListPreference android:key="@string/settings_renderrate_key" android:entryValues="@array/settings_renderrate_value" android:entries="@array/settings_renderrate_list" android:dialogTitle="@string/settings_renderrate_dlg_title" android:title="@string/settings_renderrate_title" android:summary="@string/settings_renderrate_summary" android:defaultValue="@string/settings_renderrate_default"></ListPreference><CheckBoxPreference android:key="@string/settings_render3d_key" android:summary="@string/settings_render3d_summary" android:title="@string/settings_render3d_title" android:defaultValue="@bool/settings_render3d_default"></CheckBoxPreference>
+	
+		</PreferenceCategory>
+	<PreferenceCategory android:title="Miscellaneous">
+		<CheckBoxPreference android:key="@string/settings_uselocation_key" android:title="@string/settings_uselocation_title" android:summary="@string/settings_uselocation_summary" android:defaultValue="@bool/settings_uselocation_default"></CheckBoxPreference>
+	</PreferenceCategory>
+	
+    
+
+
+
+</PreferenceScreen>

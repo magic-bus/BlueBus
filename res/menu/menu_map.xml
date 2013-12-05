@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:icon="@drawable/ic_menu_bus" android:id="@+id/mbRouteList" android:title="@string/ic_routelist"></item>
+        <item android:title="@string/ic_stoplist" android:icon="@drawable/ic_menu_stoplist" android:id="@+id/mbStopList"></item>
+        <item android:id="@+id/mbClearMap" android:icon="@drawable/ic_menu_clearmap" android:title="@string/ic_clearmap"></item>
+        <item android:id="@+id/mbStatus" android:icon="@drawable/ic_menu_status" android:title="@string/ic_status" android:visible="false"></item>
+        <item android:id="@+id/mbSettings" android:title="@string/ic_settings" android:icon="@drawable/ic_menu_preferences"></item>
+       
+    </menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/linearLayout1"
+	android:layout_width="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content">
+	
+	<ImageView android:layout_height="fill_parent"
+	android:background="#AABBCC"
+	android:layout_marginBottom="5dp"
+	android:layout_width="10dp"
+	android:layout_marginRight="10dp"
+	android:layout_marginTop="1dp"
+	android:id="@+id/raColor"></ImageView>
+	<LinearLayout android:layout_height="wrap_content"
+	android:id="@+id/linearLayout1"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:minHeight="?android:attr/listPreferredItemHeight"
+	android:layout_marginLeft="6dp">
+		<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Route Title" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:layout_weight="1" android:id="@+id/raTitle" android:textAppearance="?android:attr/textAppearanceLarge"></TextView>
+		<TextView android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="fill_parent" android:text="Next two buses in: 5 min / 20 min" android:layout_weight="1" android:layout_gravity="center_vertical" android:id="@+id/raText1" android:visibility="gone"></TextView>
+		<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:text="Second bus in: 20 min" android:visibility="gone" android:layout_weight="1" android:layout_gravity="bottom|center_vertical" android:id="@+id/raText2"></TextView>
+	</LinearLayout>
+</LinearLayout>

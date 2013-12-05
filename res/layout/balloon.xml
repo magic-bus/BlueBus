@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <Button xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/balloonButton" android:layout_height="wrap_content" android:layout_width="wrap_content" android:background="@drawable/bg_balloon" android:gravity="center" android:maxWidth="200dp" android:text="FXB" android:minWidth="50dp"></Button>
+        <ImageView android:id="@+id/imageView1" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="18dp"></ImageView>
+    </LinearLayout>

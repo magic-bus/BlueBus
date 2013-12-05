@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/mapLayout">
+        <RelativeLayout android:id="@+id/titleBar" android:layout_width="fill_parent" android:layout_alignParentTop="true" android:layout_height="wrap_content" android:background="@drawable/bg_titlebar_blue">
+            <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:textStyle="bold" android:shadowRadius="3" android:layout_marginLeft="10dp" android:text="@string/app_name" android:shadowDx="1" android:shadowDy="1" android:textColor="#ffffff" android:shadowColor="#202020"></TextView>
+            <ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:id="@+id/bnMyLocation" android:background="@drawable/bg_titlebar_button" android:src="@drawable/ic_titlebar_myloc" android:padding="2dp"></ImageButton>
+            <ImageView android:src="@drawable/bg_titlebar_separator" android:layout_width="wrap_content" android:scaleType="fitXY" android:layout_toLeftOf="@+id/bnMyLocation" android:id="@+id/separator1" android:layout_height="wrap_content" android:layout_alignTop="@+id/bnMyLocation" android:layout_alignBottom="@+id/bnMyLocation"></ImageView>
+            <ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_toLeftOf="@+id/separator1" android:layout_alignTop="@+id/separator1" android:background="@drawable/bg_titlebar_button" android:padding="2dp" android:id="@+id/bnShowStop" android:src="@drawable/ic_titlebar_stop"></ImageButton>
+            <ImageView android:src="@drawable/bg_titlebar_separator" android:layout_width="wrap_content" android:id="@+id/separator2" android:scaleType="fitXY" android:layout_height="wrap_content" android:layout_alignBottom="@+id/bnShowStop" android:layout_alignTop="@+id/bnShowStop" android:layout_toLeftOf="@+id/bnShowStop"></ImageView>
+            <ProgressBar style="?android:attr/progressBarStyleSmall" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_toLeftOf="@+id/separator2" android:indeterminate="true" android:layout_centerVertical="true" android:layout_marginRight="15dp" android:id="@+id/mapLoading" android:visibility="invisible"></ProgressBar>
+        </RelativeLayout>
+<edu.umich.pts.mbus.bluebus.MainView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mapview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_below="@id/titleBar"
+    android:clickable="true"
+    android:apiKey="0xU5Gw5F95wmFgD2CSfZ9eo_8nXy3ld0fHBBv9A" android:focusable="true" android:focusableInTouchMode="true"/>
+<ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentLeft="true" android:layout_below="@id/titleBar" android:layout_margin="10dp" android:id="@+id/bnClearMap" android:background="@drawable/color_transparent" android:src="@drawable/ic_map_clearmap" android:visibility="gone"></ImageButton>
+<ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignParentRight="true" android:layout_above="@+id/busInfoView" android:layout_alignWithParentIfMissing="true" android:id="@+id/bnZoomIn" android:background="@drawable/color_transparent" android:layout_marginBottom="10dp" android:layout_marginRight="10dp" android:src="@drawable/ic_map_zoom_in"></ImageButton>
+<ImageButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_alignBottom="@+id/bnZoomOut" android:id="@+id/bnZoomOut" android:layout_alignTop="@+id/bnZoomIn" android:layout_toLeftOf="@+id/bnZoomIn" android:background="@drawable/color_transparent" android:src="@drawable/ic_map_zoom_out"></ImageButton>
+	    <RelativeLayout android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_width="fill_parent" android:id="@+id/busInfoView" android:background="@drawable/bg_infobar" android:visibility="gone">
+	        <ImageView android:id="@+id/busColor" android:layout_height="10dp" android:layout_width="10dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_margin="10dp" android:background="#8899aa"></ImageView>
+	        <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/busTitle" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toLeftOf="@+id/biShowRoute" android:layout_width="fill_parent" android:scrollHorizontally="true" android:fadingEdge="horizontal" android:marqueeRepeatLimit="marquee_forever" android:lines="1" android:ellipsize="marquee" android:focusableInTouchMode="true" android:focusable="true" android:textColor="#FFFFFF" android:text="Route Name" android:layout_toRightOf="@id/busColor"></TextView>
+	        <ToggleButton android:layout_alignParentRight="true" android:id="@+id/biShowRoute" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textOff="" android:textOn="" android:lines="0" android:drawableTop="@drawable/ic_showroute" android:layout_centerVertical="true" android:background="@drawable/color_transparent"></ToggleButton>
+	    </RelativeLayout>
+    </RelativeLayout>

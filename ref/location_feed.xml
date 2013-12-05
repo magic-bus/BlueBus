@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livefeed>
+<item>
+<id>111</id>
+<latitude>42.2676849365234</latitude>
+<longitude>-83.7468490600586</longitude>
+<heading>141</heading>
+<route>Commuter Southbound (Nights)</route>
+<routeid>-2</routeid>
+<busroutecolor>0000ff</busroutecolor>
+</item>
+<item>
+<id>143</id>
+<latitude>42.2903900146484</latitude>
+<longitude>-83.714485168457</longitude>
+<heading>269</heading>
+<route>Commuter Southbound (Nights)</route>
+<routeid>-2</routeid>
+<busroutecolor>0000ff</busroutecolor>
+</item>
+<item>
+<id>150</id>
+<latitude>42.2751731872559</latitude>
+<longitude>-83.7346572875977</longitude>
+<heading>179</heading>
+<route>Commuter Southbound (Nights)</route>
+<routeid>-2</routeid>
+<busroutecolor>0000ff</busroutecolor>
+</item>
+<item>
+<id>21</id>
+<latitude>42.2904052734375</latitude>
+<longitude>-83.7181854248047</longitude>
+<heading>268</heading>
+<route>Northwood</route>
+<routeid>2</routeid>
+<busroutecolor>990000</busroutecolor>
+</item>
+<item>
+<id>147</id>
+<latitude>42.2977905273438</latitude>
+<longitude>-83.7125396728516</longitude>
+<heading>89</heading>
+<route>Northwood</route>
+<routeid>2</routeid>
+<busroutecolor>990000</busroutecolor>
+</item>
+<item>
+<id>24</id>
+<latitude>42.291690826416</latitude>
+<longitude>-83.7232818603516</longitude>
+<heading>7</heading>
+<route>Bursley-Baits (Nights)</route>
+<routeid>69</routeid>
+<busroutecolor>009933</busroutecolor>
+</item>
+<item>
+<id>103</id>
+<latitude>42.2773361206055</latitude>
+<longitude>-83.7339706420898</longitude>
+<heading>90</heading>
+<route>Bursley-Baits (Nights)</route>
+<routeid>69</routeid>
+<busroutecolor>009933</busroutecolor>
+</item>
+<item>
+<id>118</id>
+<latitude>42.275089263916</latitude>
+<longitude>-83.7311325073242</longitude>
+<heading>271</heading>
+<route>Oxford Shuttle</route>
+<routeid>87</routeid>
+<busroutecolor>FF9900</busroutecolor>
+</item>
+<item>
+<id>115</id>
+<latitude>42.2853775024414</latitude>
+<longitude>-83.7307662963867</longitude>
+<heading>267</heading>
+<route>Commuter Northbound (Nights)</route>
+<routeid>102</routeid>
+<busroutecolor>660099</busroutecolor>
+</item>
+</livefeed>

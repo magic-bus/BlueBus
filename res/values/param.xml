@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item format="integer" type="integer" name="param_map_latE6_default">42278110</item>
+	<item format="integer" type="integer" name="param_map_lonE6_default">-83734990</item>
+	<item format="integer" type="integer" name="param_map_zoom_default">16</item>
+	<item format="integer" type="integer" name="param_map_zoom_showstop">18</item>
+	<item name="param_timer_mapactivity_loadfeed" type="integer">60000</item>
+	<item type="integer" name="param_timer_mapactivity_locationupdate">1000</item>
+	<item name="param_timer_stopactivity_feed" type="integer">10000</item>
+	<item name="param_timer_routelistactivity_feed" type="integer">60000</item>
+	<item type="integer" format="integer" name="param_shadow_angle">30</item>
+    <string name="param_feed_location">http://mbus.pts.umich.edu/shared/location_feed.xml</string>
+	<string name="param_feed_public">http://mbus.pts.umich.edu/shared/public_feed.xml</string>
+	<string name="param_feed_stops">http://mbus.pts.umich.edu/shared/stops.xml</string>
+	<item name="param_map_animationlatency" type="integer" format="integer">4000</item>
+	<item format="integer" type="integer" name="param_map_hidezoomcontrol_delay">3000</item>
+	
+</resources>

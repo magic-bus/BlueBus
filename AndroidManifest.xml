@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="edu.umich.pts.mbus.bluebus"
+      android:versionCode="1"
+      android:versionName="1.0"
+      android:theme="@android:style/Theme.NoTitleBar">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <application android:label="@string/app_name" android:icon="@drawable/app_icon">
+        <activity android:name=".BlueBus"
+                  android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <uses-library android:name="com.google.android.maps" />
+        <activity android:name=".RouteListActivity" android:label="@string/act_routelist_title"></activity>
+        <activity android:name=".StopActivity" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".StopListActivity" android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".SettingsActivity" android:label="Settings"></activity>
+</application>
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="4"/>
+
+<uses-permission android:name="android.permission.INTERNET" />
+</manifest> 

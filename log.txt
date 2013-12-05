@@ -1,0 +1,168 @@
+BlueBus Project Log
+-------------------
+
+-----
+Tasks
+-----
+
+-----
+NOTES
+-----
+
+----------------------
+FEATURES DOWN THE ROAD
+----------------------
+* Prefetch on/off option
+* Bus/stop proximity alarm
+* StopList
+	* Favorite stops
+	* active route icons
+* Show bus time on balloon
+
+----
+Info
+----
+* Google Maps API key (debug):   0xU5Gw5F95wnKAk2wYdqm4Cz3W_TB7R3S5KYzKQ
+* Google Maps API key (release): 0xU5Gw5F95wmFgD2CSfZ9eo_8nXy3ld0fHBBv9A
+
+<!-- TakoStudio:	android:apiKey="0xU5Gw5F95wnKAk2wYdqm4Cz3W_TB7R3S5KYzKQ" -->>
+<!-- Caroline:		android:apiKey="0Av0u4wo2Efcm8c_a2w-a3tHUA12a2U4vSQqRrQ" -->>
+
+* Public feed:	http://mbus.pts.umich.edu/shared/public_feed.xml
+* Loc feed:		http://mbus.pts.umich.edu/shared/location_feed.xml
+* Path feed:	http://mbus.pts.umich.edu/shared/map_trace_route_<ID>.xml
+* Stops feed:	http://mbus.pts.umich.edu/shared/stops.xml
+* PSA feed:		http://mbus.pts.umich.edu/shared/psa_feed.xml
+* info page:	http://mbus.pts.umich.edu/aboutus.php
+
+---
+Log
+---
+2011-08-03 (Rev. 81)
+* Code lock-down
+* Turned-off debuggable
+* Version 1.0 published!
+
+2011-08-02
+* Fixed stop detail time error
+* Multi-threading bug fixes
+* Added Launcher icon
+
+2011-08-01 (Rev. 76)
+* All UI design finished
+* hdpi cleaned
+
+2011-07-31
+* Refined zoom control code
+
+2011-07-29
+* Code Optimized
+* All references properly released at destruction
+* Added clear map button
+* Added route color hint on bus info bar
+* Added MagicView
+* Double tap to zoom in
+* Customized zoom controls
+
+2011-07-28
+* Toggle location service in settings
+* Deleted deprecated overlay classes
+* Reviewing code
+
+2011-07-27
+* Added settings dialog
+* Modifying stop detail activity
+* StopActivity: show stop on map
+* Bus info bar marquee
+
+2011-07-26
+* Bus Pseudo 3D rendering!!!
+
+2011-07-25
+* Added More UI refinement on map
+* Added animation to balloon and info bar
+* Route list: added progress dialog
+* Route list: added no data notification
+* Stop list: added progress dialog
+* Stop list: added no data notification
+* Added MapItemOverlay
+* MapItemOverlay: Correct draw sequence
+* MapItemOverlay: OnTap
+
+2011-07-24
+* Added TitleBar
+* Changed balloon bg (hail to the nine-patches)
+* Changed bus stop icon (loving it)
+* Lots of UI on map activity replaced!
+
+2011-07-23
+* Added StopListActivity
+* Searchable stop list
+* suppress soft keyboard at startup (StopList)
+
+2011-07-22
+* Animate to my location
+
+2011-07-21
+* Added recovery from saved instance state
+* Added more flexibility to PublicParser feed
+* Added my location
+
+2011-07-20
+* Finished StopActivity
+* Optimized feed cache
+* Start/Cancel timer tasks based on Activity life cycle
+
+2011-07-19
+* Added StopActivity
+* route_list_item restructured
+
+2011-07-18
+* Restructured BusDrawable
+* Added bus info view
+
+2011-07-15
+* Show/hide balloon
+* Organized package "map"
+* Restructuring BusDrawable
+
+2011-07-14
+* Feed classes are now static
+* Moved some parsing to worker thread
+
+2011-07-13
+* Show stops for specific route
+* Added color bars to routes activity
+* Map initial placement
+* Optimized bus update
+
+2011-07-12
+* StopsParser implemented
+* Unused classes cleanup
+* Added route selection activity
+* Added route path rendering
+
+2011-07-11
+* New LocationParser implemented
+
+2011-07-06 (Rev. 18)
+* Project reinitialized
+
+2011-01-28 (Rev. 15)
+* Added classes Stop and StopOverlay
+* Added class PublicHandler
+* Project suspended
+
+2011-01-13 (Rev.14) Milestone 1
+* Initial commit to SVN.
+* Timed update of locations and rendering.
+* Finished all bus animation.
+* Changed package name to "yhc".
+* SVN properly structured. Project under version control.
+
+2011-01-12
+* Successful in reading location from the web.
+
+2011-01-11
+* Project initiated.
+* Basic map interface formed.

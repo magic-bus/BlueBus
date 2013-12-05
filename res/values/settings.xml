@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="settings_renderrate_list">
+		<item>Fast</item>
+		<item>Medium</item>
+		<item>Slow</item>
+	</string-array>
+	<string-array name="settings_renderrate_value">
+		<item>100</item>
+		<item>300</item>
+		<item>1000</item>
+	</string-array>
+	<string name="settings_renderrate_key">settings_renderrate_key</string>
+	<string name="settings_renderrate_title">Render rate</string>
+	<string name="settings_renderrate_summary">Faster rendering rate would produce smoother animation, but uses more CPU and battery power.</string>
+	<string name="settings_renderrate_dlg_title">Set rendering rate</string>
+	<string name="settings_renderrate_default">300</string>
+	<string name="settings_render3d_key">settings_render3d_key</string>
+	<string name="settings_render3d_title">Pseudo 3D rendering</string>
+	<string name="settings_render3d_summary">Render buses with pseudo 3D technique.</string>
+	<item format="boolean" type="bool" name="settings_render3d_default">false</item>
+	<string name="settings_uselocation_key">settings_uselocation_key</string>
+	<string name="settings_uselocation_title">Enable location service</string>
+	<string name="settings_uselocation_summary">Location service allows the application to determine where you are. Disable this option to save battery.</string>
+	<item type="bool" format="boolean" name="settings_uselocation_default">true</item>
+</resources>

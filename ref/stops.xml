@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<stopfeed>
+<stop>
+<name>Crisler Arena S</name>
+<name2>Crisler Arena</name2>
+<name3>None</name3>
+<lat>42.26538</lat>
+<lon>-83.74568</lon>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound (Nights)</route>
+<route>KMS Shuttle</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>KMS Shuttle</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+</stop>
+<stop>
+<name>Campus W</name>
+<name2>Campus Safety</name2>
+<name3>None</name3>
+<lat>42.26456</lat>
+<lon>-83.74502</lon>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+</stop>
+<stop>
+<name>Transportation</name>
+<name2>Transportation</name2>
+<name3>None</name3>
+<lat>42.26637</lat>
+<lon>-83.74544</lon>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+<route>Charter</route>
+<route>Charter</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Kipke and Greene N</name>
+<name2>Kipke at Greene</name2>
+<name3>None</name3>
+<lat>42.26806</lat>
+<lon>-83.7473</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Administrative Services Building N</name>
+<name2>Admin Services</name2>
+<name3>None</name3>
+<lat>42.26932</lat>
+<lon>-83.74747</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Botanical Gardens</route>
+<route>Botanical Gardens</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Botanical Gardens</route>
+<route>Botanical Gardens</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Intramural Building E</name>
+<name2>IM Building</name2>
+<name3>None</name3>
+<lat>42.26956</lat>
+<lon>-83.74176</lon>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>State and S. University N</name>
+<name2>Union</name2>
+<name3>None</name3>
+<lat>42.27505</lat>
+<lon>-83.74054</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>N. University and S. Thayer E</name>
+<name2>North U at Thayer</name2>
+<name3>None</name3>
+<lat>42.27843</lat>
+<lon>-83.73956</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>N. University and Fletcher E</name>
+<name2>North U at Fletcher</name2>
+<name3>None</name3>
+<lat>42.27852</lat>
+<lon>-83.7373</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>C.C. Little SE</name>
+<name2>Central Transit Center</name2>
+<name3>C.C. Little</name3>
+<lat>42.27778</lat>
+<lon>-83.73503</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Loop to Diag to Diag Express</route>
+</stop>
+<stop>
+<name>Ann and Zina Pitcher E</name>
+<name2>Couzens</name2>
+<name3>None</name3>
+<lat>42.28228</lat>
+<lon>-83.73325</lon>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound</route>
+<route>Northwood</route>
+<route>Intercampus to East Campus</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Intercampus to East Campus</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+</stop>
+<stop>
+<name>Mary Markley E</name>
+<name2>Markley</name2>
+<name3>None</name3>
+<lat>42.28137</lat>
+<lon>-83.72865</lon>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound</route>
+<route>KMS Shuttle</route>
+<route>Intercampus to East Campus</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Intercampus to East Campus</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>KMS Shuttle</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express (Evening)</route>
+</stop>
+<stop>
+<name>Taubman Center NW</name>
+<name2>Taubman Center</name2>
+<name3>None</name3>
+<lat>42.28501</lat>
+<lon>-83.72755</lon>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Mitchell Express (Evening)</route>
+</stop>
+<stop>
+<name>Cancer and Geriatrics Center W</name>
+<name2>Cancer Center</name2>
+<name3>None</name3>
+<lat>42.28547</lat>
+<lon>-83.73113</lon>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Mitchell Express (Evening)</route>
+</stop>
+<stop>
+<name>Mitchell Athletic Field E</name>
+<name2>Mitchell Field</name2>
+<name3>Mitchell Field Outbound</name3>
+<lat>42.28721</lat>
+<lon>-83.72319</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Diag to Diag</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+</stop>
+<stop>
+<name>Bonisteel Blvd (Art and Architecture Bldg) E</name>
+<name2>Pierpont</name2>
+<name3>Art and Architecture</name3>
+<lat>42.29021</lat>
+<lon>-83.7172</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+</stop>
+<stop>
+<name>Bonisteel and Beal E</name>
+<name2>BIR Building</name2>
+<name3>None</name3>
+<lat>42.29022</lat>
+<lon>-83.71374</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Beal and Hayward (FXB) N</name>
+<name2>FXB</name2>
+<name3>None</name3>
+<lat>42.29368</lat>
+<lon>-83.7124</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Hayward and Hubbard E</name>
+<name2>Hubbard at NC-46</name2>
+<name3>None</name3>
+<lat>42.29594</lat>
+<lon>-83.70753</lon>
+<route>Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+</stop>
+<stop>
+<name>Huron and Hubbard S</name>
+<name2>Huron at Hubbard</name2>
+<name3>None</name3>
+<lat>42.29526</lat>
+<lon>-83.70492</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>Glazier Way West Shelter</name>
+<name2>Glazier Way</name2>
+<name3>None</name3>
+<lat>42.288861823009405</lat>
+<lon>-83.70599806308746</lon>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>M-ART CENTRAL</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>M-ART CENTRAL</route>
+</stop>
+<stop>
+<name>Observatory and Ann N</name>
+<name2>Simpson Building</name2>
+<name3>None</name3>
+<lat>42.28227</lat>
+<lon>-83.73092</lon>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Mitchell Express (Evening)</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+</stop>
+<stop>
+<name>Willard and E. University W</name>
+<name2>East Quad</name2>
+<name3>None</name3>
+<lat>42.2738</lat>
+<lon>-83.73561</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>S. University and Tappan W</name>
+<name2>Shapiro Library</name2>
+<name3>None</name3>
+<lat>42.27508</lat>
+<lon>-83.73754</lon>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Catherine and Glen S</name>
+<name2>V. Vaughan</name2>
+<name3>Glen at Catherine</name3>
+<lat>42.28319</lat>
+<lon>-83.7356</lon>
+<route>Bursley-Baits</route>
+<route>Bursley Express</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>Diag to Diag</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Diag to Diag</route>
+<route>Bursley-Baits</route>
+</stop>
+<stop>
+<name>Hubbard and Murfin (NCRB) E</name>
+<name2>Hubbard at NW III</name2>
+<name3>None</name3>
+<lat>42.29484</lat>
+<lon>-83.719</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Hubbard near Cram Circle E</name>
+<name2>Hubbard at Cram Cir.</name2>
+<name3>None</name3>
+<lat>42.29497</lat>
+<lon>-83.716</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Cram Circle N</name>
+<name2>Cram Circle</name2>
+<name3>None</name3>
+<lat>42.29685</lat>
+<lon>-83.715</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Bishop and Beal E</name>
+<name2>Bishop Street</name2>
+<name3>None</name3>
+<lat>42.29776</lat>
+<lon>-83.71224</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Beal and McIntyre (Fire Station) N</name>
+<name2>Fire Station</name2>
+<name3>None</name3>
+<lat>42.30049</lat>
+<lon>-83.7126</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>McIntyre Dr. 1 SE</name>
+<name2>McIntyre at NW-44</name2>
+<name3>None</name3>
+<lat>42.30167</lat>
+<lon>-83.70982</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>McIntyre Dr. 2 S</name>
+<name2>McIntyre at NW-46</name2>
+<name3>None</name3>
+<lat>42.29808</lat>
+<lon>-83.70985</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+</stop>
+<stop>
+<name>McIntyre Dr. 3 S</name>
+<name2>Community Center</name2>
+<name3>None</name3>
+<lat>42.29693</lat>
+<lon>-83.70929</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+</stop>
+<stop>
+<name>North Campus Administrative Complex E</name>
+<name2>NCAC Hubbard</name2>
+<name3>None</name3>
+<lat>42.29501</lat>
+<lon>-83.70177</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Northwood V 1 S</name>
+<name2>Northwood V</name2>
+<name3>Northwood V 1</name3>
+<lat>42.295</lat>
+<lon>-83.70036</lon>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Northwood V 3 NW</name>
+<name2>Northwood V</name2>
+<name3>Northwood V 3</name3>
+<lat>42.29399</lat>
+<lon>-83.69951</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+</stop>
+<stop>
+<name>Northwood V 2 E</name>
+<name2>Northwood V</name2>
+<name3>Northwood V 2</name3>
+<lat>42.29326460021789</lat>
+<lon>-83.6989974975586</lon>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Fletcher and Washington N</name>
+<name2>Power Center</name2>
+<name3>None</name3>
+<lat>42.28091064759432</lat>
+<lon>-83.73712241649628</lon>
+<route>Northwood</route>
+<route>Northwood Express</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood Express</route>
+<route>Diag to Diag</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+</stop>
+<stop>
+<name>Murfin and Bonisteel S</name>
+<name2>Pierpont</name2>
+<name3>None</name3>
+<lat>42.29063</lat>
+<lon>-83.71858</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Observatory (Mosher-Jordan) S</name>
+<name2>Mosher-Jordan</name2>
+<name3>None</name3>
+<lat>42.28094</lat>
+<lon>-83.73105</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Observatory (Stockwell Hall) S</name>
+<name2>Stockwell</name2>
+<name3>None</name3>
+<lat>42.27881</lat>
+<lon>-83.73096</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Zina Pitcher Pl. (Kresge Research Bldg) N</name>
+<name2>Kresge</name2>
+<name3>None</name3>
+<lat>42.28288117216458</lat>
+<lon>-83.73347997665405</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+</stop>
+<stop>
+<name>Bursley Hall W</name>
+<name2>Bursley</name2>
+<name3>Bursley (Cut Out Stop)</name3>
+<lat>42.29474</lat>
+<lon>-83.72136</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Vera Baits II Housing S</name>
+<name2>Baits II (Ziwet)</name2>
+<name3>Baits II (Ziwet)</name3>
+<lat>42.29377</lat>
+<lon>-83.7243</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Vera Baits I Housing S</name>
+<name2>Baits I</name2>
+<name3>None</name3>
+<lat>42.29158</lat>
+<lon>-83.72323</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Catherine and Glen (Victor Vaughn Bldg) W</name>
+<name2>V. Vaughan</name2>
+<name3>None</name3>
+<lat>42.28318</lat>
+<lon>-83.73499</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+</stop>
+<stop>
+<name>Murfin between Plymouth and Hubbard N</name>
+<name2>Murfin at NW 3</name2>
+<name3>None</name3>
+<lat>42.29705</lat>
+<lon>-83.71961</lon>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+</stop>
+<stop>
+<name>Administrative Services Building S</name>
+<name2>ICLE</name2>
+<name3>None</name3>
+<lat>42.26932</lat>
+<lon>-83.74754</lon>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Botanical Gardens</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Botanical Gardens</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+</stop>
+<stop>
+<name>Intramural Building W</name>
+<name2>IM Building</name2>
+<name3>None</name3>
+<lat>42.26967</lat>
+<lon>-83.74173</lon>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+</stop>
+<stop>
+<name>C.C. Little NW</name>
+<name2>Central Transit Center</name2>
+<name3>Ruthven Museum</name3>
+<lat>42.27811</lat>
+<lon>-83.73499</lon>
+<route>Northwood</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+</stop>
+<stop>
+<name>Mitchell Athletic Field W</name>
+<name2>Mitchell Field</name2>
+<name3>Mitchell Field Inbound</name3>
+<lat>42.28736</lat>
+<lon>-83.72257</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Diag to Diag</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Cancer and Geriatrics Center E</name>
+<name2>Cancer Center</name2>
+<name3>None</name3>
+<lat>42.2854</lat>
+<lon>-83.73118</lon>
+<route>Commuter Southbound</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Southbound</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+</stop>
+<stop>
+<name>Taubman Center SE</name>
+<name2>Taubman Center</name2>
+<name3>None</name3>
+<lat>42.28495</lat>
+<lon>-83.72766</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell Express (Evening)</route>
+</stop>
+<stop>
+<name>Mary Markley W</name>
+<name2>Markley</name2>
+<name3>M-22 Structure</name3>
+<lat>42.28144</lat>
+<lon>-83.72864</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell Express (Evening)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>Fletcher and Washington S</name>
+<name2>Power Center</name2>
+<name3>Fletcher St at Rackham</name3>
+<lat>42.28072</lat>
+<lon>-83.73714</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley Express</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Commuter Northbound (Art Fair Detour Nights)</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Loop to Diag to Diag Express</route>
+</stop>
+<stop>
+<name>State and S. University W</name>
+<name2>Union</name2>
+<name3>Museum of Art</name3>
+<lat>42.27501</lat>
+<lon>-83.74044</lon>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Commuter Northbound</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>Murfin and Bonisteel W</name>
+<name2>Pierpont</name2>
+<name3>None</name3>
+<lat>42.29048</lat>
+<lon>-83.71832</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Diag to Diag</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>Murfin and Bonisteel N</name>
+<name2>Pierpont</name2>
+<name3>None</name3>
+<lat>42.29092</lat>
+<lon>-83.71837</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Northwood Express</route>
+<route>Northwood Express</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Vera Baits II Housing N</name>
+<name2>Baits II</name2>
+<name3>Baits II (Coman)</name3>
+<lat>42.29377</lat>
+<lon>-83.72419</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Bursley Hall E</name>
+<name2>Bursley</name2>
+<name3>Bursley Shelter</name3>
+<lat>42.294587952588756</lat>
+<lon>-83.72078776359558</lon>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Bursley-Baits</route>
+<route>Botanical Gardens</route>
+<route>Botanical Gardens</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley Express</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Bursley-Baits (Nights)</route>
+<route>Bursley-Baits (Nights)</route>
+</stop>
+<stop>
+<name>Hubbard and Huron W</name>
+<name2>Hubbard at Huron Parkway</name2>
+<name3>None</name3>
+<lat>42.29543</lat>
+<lon>-83.70503</lon>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+</stop>
+<stop>
+<name>Hayward and Hubbard W</name>
+<name2>Hubbard at Hayward</name2>
+<name3>None</name3>
+<lat>42.29615</lat>
+<lon>-83.70737</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Observatory (Stockwell Hall) N</name>
+<name2>Stockwell</name2>
+<name3>None</name3>
+<lat>42.27882</lat>
+<lon>-83.73085</lon>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Bursley-Baits (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Bonisteel and Beal (Cooley) W</name>
+<name2>Cooley Lab</name2>
+<name3>None</name3>
+<lat>42.29056</lat>
+<lon>-83.71385</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>M-ART CENTRAL</route>
+<route>Diag to Diag</route>
+<route>Diag to Diag</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+</stop>
+<stop>
+<name>North Campus Administrative Complex W</name>
+<name2>NCAC Hubbard</name2>
+<name3>None</name3>
+<lat>42.29514</lat>
+<lon>-83.70176</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Beal and Hayward (FXB) S</name>
+<name2>FXB</name2>
+<name3>G.G. Brown</name3>
+<lat>42.29368</lat>
+<lon>-83.71253</lon>
+<route>Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Spring Break-Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+<route>Northwood</route>
+</stop>
+<stop>
+<name>Beal and McIntyre (Fire Station) E</name>
+<name2>Fire Station</name2>
+<name3>None</name3>
+<lat>42.30042</lat>
+<lon>-83.71276</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>Botanical Gardens</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Botanical Gardens</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Bishop and Beal S</name>
+<name2>Bishop Street</name2>
+<name3>None</name3>
+<lat>42.29789</lat>
+<lon>-83.71225</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Cram Circle S</name>
+<name2>Cram Circle</name2>
+<name3>None</name3>
+<lat>42.29683</lat>
+<lon>-83.71513</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Hubbard near Cram Circle W</name>
+<name2>Hubbard at Cram Circle</name2>
+<name3>None</name3>
+<lat>42.29509</lat>
+<lon>-83.716</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Hubbard and Murfin (NCRB) W</name>
+<name2>Hubbard at Murfin</name2>
+<name3>None</name3>
+<lat>42.29498</lat>
+<lon>-83.719</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>Northwood Express</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Zina Pitcher Place (at BSR)</name>
+<name2>BSR Building</name2>
+<name3>None</name3>
+<lat>42.2818</lat>
+<lon>-83.7335</lon>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Southbound (Nights)</route>
+<route>M-ART CENTRAL</route>
+<route>Commuter Southbound</route>
+</stop>
+<stop>
+<name>Hayward near Hubbard (at NC 53) E</name>
+<name2>Hayward at NC-53</name2>
+<name3>None</name3>
+<lat>42.2954</lat>
+<lon>-83.7077</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Nights)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+<route>North Campus to Burs/Baits and Northwood  (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Church at Geddes S</name>
+<name2>Church at Geddes</name2>
+<name3>None</name3>
+<lat>42.2772</lat>
+<lon>-83.7347</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Cancer Center Driveway</name>
+<name2>Cancer Center Driveway</name2>
+<name3>Cancer Ctr Driveway</name3>
+<lat>42.28468296747876</lat>
+<lon>-83.73138785362244</lon>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>Mitchell Express</route>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Mitchell Express (Evening)</route>
+</stop>
+<stop>
+<name>Lot M-75</name>
+<name2>Lot M-75</name2>
+<name3>Lot M-75</name3>
+<lat>42.28681806790136</lat>
+<lon>-83.72366309165955</lon>
+<route>Mitchell Express</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Mitchell Express</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Mitchell Express (Evening)</route>
+<route>Commuter Northbound (Nights)</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell Express</route>
+</stop>
+<stop>
+<name>McIntyre 3 N</name>
+<name2>Northwood Community Center</name2>
+<name3>None</name3>
+<lat>42.29683381830824</lat>
+<lon>-83.70914697647095</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>McIntyre 2 N</name>
+<name2>McIntyre at NW 46</name2>
+<name3>None</name3>
+<lat>42.29908753943194</lat>
+<lon>-83.70903968811035</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>McIntyre 1 NW</name>
+<name2>McIntyre at NW 44</name2>
+<name3>None</name3>
+<lat>42.301436402364864</lat>
+<lon>-83.7093186378479</lon>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+<route>North Campus to Central Campus (Mon-Thu)</route>
+</stop>
+<stop>
+<name>Delhi Metro Park</name>
+<name2>Delhi Metro Park</name2>
+<name3>Delhi</name3>
+<lat>42.336722</lat>
+<lon>-83.812466</lon>
+<route>10K-DEHLI PARK</route>
+<route>10K-DEHLI PARK</route>
+</stop>
+<stop>
+<name>Dexter-AA Run Loading</name>
+<name2>Dextar-Ann Arbor Run</name2>
+<name3>Loading Zone</name3>
+<lat>42.282928797373344</lat>
+<lon>-83.74957323074341</lon>
+<route>10K-DEHLI PARK</route>
+<route>1/2 MARATHON DEXTER HIGH</route>
+<route>5K-STEINER</route>
+<route>10K-DEHLI PARK</route>
+<route>1/2 MARATHON DEXTER HIGH</route>
+<route>5K-STEINER</route>
+</stop>
+<stop>
+<name>Dexter-AA Run Staging</name>
+<name2>Dexter-AA Staging</name2>
+<name3>Staging Area</name3>
+<lat>42.28264304558087</lat>
+<lon>-83.75081777572632</lon>
+<route>10K-DEHLI PARK</route>
+<route>1/2 MARATHON DEXTER HIGH</route>
+<route>5K-STEINER</route>
+<route>10K-DEHLI PARK</route>
+<route>1/2 MARATHON DEXTER HIGH</route>
+<route>5K-STEINER</route>
+</stop>
+<stop>
+<name>Dexter High School</name>
+<name2>Dexter High School</name2>
+<name3>Dexter High School</name3>
+<lat>42.32430149472703</lat>
+<lon>-83.89954090118408</lon>
+<route>1/2 MARATHON DEXTER HIGH</route>
+<route>1/2 MARATHON DEXTER HIGH</route>
+</stop>
+<stop>
+<name>Rudolph Steiner Elementary School</name>
+<name2>Steiner School</name2>
+<name3>Steiner School</name3>
+<lat>42.31512313400116</lat>
+<lon>-83.7717604637146</lon>
+<route>5K-STEINER</route>
+<route>5K-STEINER</route>
+</stop>
+<stop>
+<name>Arbor Lakes</name>
+<name2>Arbor Lakes</name2>
+<name3>Arbor Lakes</name3>
+<lat>42.31063</lat>
+<lon>-83.67626</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>2101 Commonwealth Dr. E</name>
+<name2>Commonwealth </name2>
+<name3>Commonwealth Inbound</name3>
+<lat>42.3063</lat>
+<lon>-83.69648</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>(Art Fair) Intramural Building E</name>
+<name2>(temp) IM Building</name2>
+<name3>None</name3>
+<lat>42.26938591295423</lat>
+<lon>-83.74453067779541</lon>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Northbound (Art Fair Detour Nights)</route>
+</stop>
+<stop>
+<name>(Art Fair) Intramural Building W</name>
+<name2>(temp) IM Building</name2>
+<name3>None</name3>
+<lat>42.2696082112189</lat>
+<lon>-83.7446540594101</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour Nights)</route>
+</stop>
+<stop>
+<name>(Art Fair) Division and Jefferson</name>
+<name2>(temp) ISR Building</name2>
+<name3>None</name3>
+<lat>42.276252979502324</lat>
+<lon>-83.74402105808258</lon>
+<route>Commuter Northbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>(Art Fair) Ross School of Business W</name>
+<name2>(temp) Ross School</name2>
+<name3>None</name3>
+<lat>42.272049470938065</lat>
+<lon>-83.7379378080368</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour Nights)</route>
+</stop>
+<stop>
+<name>(Art Fair) Weill Hall W</name>
+<name2>(temp) Weill Hall</name2>
+<name3>None</name3>
+<lat>42.271926417833</lat>
+<lon>-83.7409257888794</lon>
+<route>Commuter Southbound (Art Fair Detour)</route>
+<route>Commuter Southbound (Art Fair Detour Nights)</route>
+</stop>
+<stop>
+<name>E Hospital Dr W</name>
+<name2>Mott Employee Entrance</name2>
+<name3>None</name3>
+<lat>42.282492231612366</lat>
+<lon>-83.72917771339417</lon>
+<route>Commuter Northbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Southbound (Nights)</route>
+<route>Commuter Northbound (Nights)</route>
+</stop>
+<stop>
+<name>KMS Place near S State St W</name>
+<name2>KMS</name2>
+<name3>None</name3>
+<lat>42.23492020423696</lat>
+<lon>-83.73752474784851</lon>
+<route>KMS Shuttle</route>
+<route>KMS Shuttle</route>
+</stop>
+<stop>
+<name>North Ingalls Building N</name>
+<name2>NIB</name2>
+<name3>None</name3>
+<lat>42.283522125080935</lat>
+<lon>-83.73835355043411</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>Wall St. and Maiden Lane</name>
+<name2>Wall St.</name2>
+<name3>None</name3>
+<lat>42.28763557790137</lat>
+<lon>-83.73400032520294</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>Kellogg Eye Center</name>
+<name2>Kellogg Eye Center</name2>
+<name3>None</name3>
+<lat>42.28807210802238</lat>
+<lon>-83.73641967773438</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>Wall St. (Lot M-76) NW</name>
+<name2>Lot M-76</name2>
+<name3>None</name3>
+<lat>42.288762613127645</lat>
+<lon>-83.73714923858643</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>Wall St. (Lot M-50) SE</name>
+<name2>Lot M-50</name2>
+<name3>None</name3>
+<lat>42.2887943603068</lat>
+<lon>-83.73768299818039</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>North Campus Administrative Complex E (Baxter Rd.)</name>
+<name2>NCAC Baxter</name2>
+<name3>None</name3>
+<lat>42.29705601974965</lat>
+<lon>-83.70253801345825</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>North Campus Administrative Complex W (Baxter Rd.)</name>
+<name2>NCAC Baxter</name2>
+<name3>None</name3>
+<lat>42.29705601974965</lat>
+<lon>-83.70253801345825</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>North Campus Plant Services Building E</name>
+<name2>Plant Services N</name2>
+<name3>None</name3>
+<lat>42.29794481767499</lat>
+<lon>-83.69635820388794</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>North Campus Plant Services Building W</name>
+<name2>Plant Services N</name2>
+<name3>None</name3>
+<lat>42.29779404033904</lat>
+<lon>-83.69624018669128</lon>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>Green Rd. Park and Ride Lot</name>
+<name2>Green Rd</name2>
+<name3>None</name3>
+<lat>42.29996043791455</lat>
+<lon>-83.69303226470947</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to NIB</route>
+<route>Intercampus to NIB</route>
+</stop>
+<stop>
+<name>East Ann Arbor Health Center</name>
+<name2>EAAHC</name2>
+<name3>None</name3>
+<lat>42.30760968510176</lat>
+<lon>-83.67572665214539</lon>
+<route>Intercampus to East Campus</route>
+<route>Intercampus to East Campus</route>
+</stop>
+<stop>
+<name>Church and Willard S</name>
+<name2>East Quad</name2>
+<name3>None</name3>
+<lat>42.27360845358756</lat>
+<lon>-83.73451933264732</lon>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Loop to Diag to Diag Express</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Shuttle</route>
+</stop>
+<stop>
+<name>Oxford at South University N</name>
+<name2>Oxford Housing</name2>
+<name3>None</name3>
+<lat>42.27448269750992</lat>
+<lon>-83.7257981300354</lon>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Loop to Diag to Diag Express</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Shuttle</route>
+</stop>
+<stop>
+<name>S. University and Linden W</name>
+<name2>Trotter House</name2>
+<name3>None</name3>
+<lat>42.27513762825771</lat>
+<lon>-83.72886657714844</lon>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Shuttle</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Loop to Diag to Diag Express</route>
+<route>Oxford Shuttle</route>
+</stop>
+<stop>
+<name>Veterans Affairs Hospital</name>
+<name2>VA</name2>
+<name3>None</name3>
+<lat>42.28642518310754</lat>
+<lon>-83.71389448642731</lon>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to Glazier and VA</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+<route>Mitchell-Glazier to UM Hospitals</route>
+</stop>
+<stop>
+<name>Glazier Way East Shelter</name>
+<name2>Glazier Way</name2>
+<name3>Glazier Way Shelter</name3>
+<lat>42.28871300812816</lat>
+<lon>-83.70484203100204</lon>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Southbound</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>Willard and E. University N</name>
+<name2>East Quad</name2>
+<name3>temp EQ on East U</name3>
+<lat>42.27359356851227</lat>
+<lon>-83.7357223033905</lon>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>SC6 and Kipke</name>
+<name2>(temp) Crisler Lot SC6</name2>
+<name3>Crisler</name3>
+<lat>42.265672225113505</lat>
+<lon>-83.74493300914764</lon>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>Detroit Metropolitan Airport</name>
+<name2>KDTW</name2>
+<name3>None</name3>
+<lat>42.21084657560504</lat>
+<lon>-83.35189819335938</lon>
+<route>Charter</route>
+</stop>
+<stop>
+<name>Ann and Zina Pitcher W</name>
+<name2>(temp) Ann St. Structure M-86</name2>
+<name3>None</name3>
+<lat>42.28229974483865</lat>
+<lon>-83.73398959636688</lon>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>Washtenaw and Palmer S</name>
+<name2>(temp) Life Sciences Institute</name2>
+<name3>None</name3>
+<lat>42.27957510093965</lat>
+<lon>-83.7335604429245</lon>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>SC7 and Kipke</name>
+<name2>Crisler Lot SC7</name2>
+<name3>Crisler</name3>
+<lat>42.26438796467469</lat>
+<lon>-83.74420881271362</lon>
+<route>Charter</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>Hill St at Olivia E</name>
+<name2>Henderson House</name2>
+<name3>None</name3>
+<lat>42.27213282935663</lat>
+<lon>-83.73180627822876</lon>
+<route>Oxford Shuttle</route>
+<route>Oxford Loop to Northwood Express</route>
+<route>Oxford Shuttle</route>
+</stop>
+<stop>
+<name>Church at S.University S</name>
+<name2>East Hall</name2>
+<name3>East Hall</name3>
+<lat>42.27564172183427</lat>
+<lon>-83.73463869094849</lon>
+<route>Northwood (Sp/Su 2010 Weekends)</route>
+<route>Commuter Southbound (Sp/Su 2010)</route>
+<route>Commuter Southbound (Sp/Su 2010 Nights)</route>
+<route>Northwood (Sp/Su 2010)</route>
+</stop>
+<stop>
+<name>Church at N. University N</name>
+<name2>East Hall</name2>
+<name3>525 Church</name3>
+<lat>42.276096196444996</lat>
+<lon>-83.73444557189941</lon>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>State and S. University E</name>
+<name2>Union</name2>
+<name3>Law Quad</name3>
+<lat>42.27488954922974</lat>
+<lon>-83.73979657888412</lon>
+<route>Commuter Northbound</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+</stop>
+<stop>
+<name>S. University and E. University E</name>
+<name2>(temp) South University at East University</name2>
+<name3>None</name3>
+<lat>42.274956</lat>
+<lon>-83.736023</lon>
+<route>Commuter Northbound (Sp/Su 2010 Nights)</route>
+<route>Commuter Northbound (Sp/Su 2010)</route>
+</stop>
+</stopfeed>
