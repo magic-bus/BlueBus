@@ -5,7 +5,7 @@ An android client for the University of Michigan's Magic Bus system. This source
 
 The app displays almost-realtime location of U-M buses and arrival times for each stop. Also view route paths and stop locations.
 
-Location and other data feeds is provided as is by U-M PTS:
+Location and other data feeds are provided as is by U-M PTS:
 > The Magic Bus system is still under development. Bus riders are encouraged to use it, but reliable and accurate information is not guaranteed.
 
 
