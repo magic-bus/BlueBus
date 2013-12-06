@@ -32,4 +32,4 @@ The MIT License (MIT)
 
 Authors
 =======
-[Yu-hsien Chang](yhnchang@umich.edu)
+[Yu-hsien Chang](mailto:yhnchang@umich.edu)
